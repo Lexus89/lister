@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import pcap
 import dpkt
 import socket
