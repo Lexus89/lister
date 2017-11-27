@@ -7,7 +7,6 @@ import sys, getopt
 from array import *
 import netifaces as ni
 
-
 def sniff(local, iface):
 	print '**Note: Lister.py will only show new unique connections.'
 	connections = []
